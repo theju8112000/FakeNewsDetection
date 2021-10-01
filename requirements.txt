@@ -1,0 +1,10 @@
+Flusk
+gunicorn
+Jinja2
+MarkupSafe
+werkzeug
+pandas
+sklearn
+xgboost
+numpy
+scipy

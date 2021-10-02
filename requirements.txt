@@ -1,4 +1,4 @@
-Flusk
+Flask
 gunicorn
 Jinja2
 MarkupSafe

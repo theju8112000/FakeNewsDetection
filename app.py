@@ -1,6 +1,6 @@
 from flask import Flask, abort, jsonify, request, render_template,session
 import joblib
-from feature import *
+from feature import get_all_query,remove_punctuation_stopwords_lemma
 
 pipeline = joblib.load('./pipeline.sav')
 
